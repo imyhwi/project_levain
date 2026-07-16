@@ -1,6 +1,3 @@
-//서울기술교육센터 AIOT & Embedded System
-//2024-04-16 By KSH
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
